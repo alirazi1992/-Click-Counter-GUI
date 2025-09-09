@@ -1,0 +1,16 @@
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\bin\Debug\net8.0-windows\ClickCounterGUI.exe
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\bin\Debug\net8.0-windows\ClickCounterGUI.deps.json
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\bin\Debug\net8.0-windows\ClickCounterGUI.runtimeconfig.json
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\bin\Debug\net8.0-windows\ClickCounterGUI.dll
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\bin\Debug\net8.0-windows\ClickCounterGUI.pdb
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\obj\Debug\net8.0-windows\ClickCounterGUI.Form1.resources
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\obj\Debug\net8.0-windows\ClickCounterGUI.csproj.GenerateResource.cache
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\obj\Debug\net8.0-windows\ClickCounterGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\obj\Debug\net8.0-windows\ClickCounterGUI.AssemblyInfoInputs.cache
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\obj\Debug\net8.0-windows\ClickCounterGUI.AssemblyInfo.cs
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\obj\Debug\net8.0-windows\ClickCounterGUI.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\obj\Debug\net8.0-windows\ClickCounterGUI.dll
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\obj\Debug\net8.0-windows\refint\ClickCounterGUI.dll
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\obj\Debug\net8.0-windows\ClickCounterGUI.pdb
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\obj\Debug\net8.0-windows\ClickCounterGUI.genruntimeconfig.cache
+C:\Users\a.razi\source\repos\ClickCounterGUI\ClickCounterGUI\obj\Debug\net8.0-windows\ref\ClickCounterGUI.dll
